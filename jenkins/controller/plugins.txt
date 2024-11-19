@@ -39,3 +39,4 @@ jms-messaging:1.1.27
 # The below list are plugins that are also in base-plugins.txt but for
 # some reason or other we need to temporarily freeze or fast-track.
 #
+structs:338.v848422169819
