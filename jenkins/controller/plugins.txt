@@ -21,11 +21,14 @@
 # [1] https://github.com/openshift/jenkins/blob/master/2/contrib/openshift/bundle-plugins.txt
 # [2] https://github.com/openshift/jenkins/blob/master/2/contrib/openshift/base-plugins.txt
 # [3] https://github.com/openshift/jenkins#plugin-installation-for-centos7-v410
+aws-java-sdk-minimal:1.12.529-406.vdeff15e5817d
 basic-branch-build-strategies:81.v05e333931c7d
+copyartifact:757.v05365583a_455
 generic-webhook-trigger:2.0.1
 github-oauth:597.ve0c3480fcb_d0
 kubernetes-credentials-provider:1.262.v2670ef7ea_0c5
 pipeline-github:2.8-159.09e4403bc62f
+s3:483.vcb_db_3dcee68f
 slack:684.v833089650554
 timestamper:1.27
 splunk-devops-extend:1.10.1
